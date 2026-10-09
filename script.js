@@ -182,22 +182,22 @@ const proximaFoto =
 const fotos = [
   
   {
-    imagem: "foto1.jpg",
+    imagem: "fotocasal.jpg",
     legenda: "Cada momento ao seu lado se torna especial. ❤️"
   },
   
   {
-    imagem: "foto2.jpg",
+    imagem: "fotocasal.jpg",
     legenda: "Um dos muitos momentos que quero guardar para sempre. ❤️"
   },
   
   {
-    imagem: "foto3.jpg",
+    imagem: "fotocasal.jpg",
     legenda: "Que venham muitos outros momentos como esse. 🥰"
   },
   
   {
-    imagem: "foto4.jpg",
+    imagem: "fotocasal.jpg",
     legenda: "Nosso dia 01. ❤️"
   }
   
